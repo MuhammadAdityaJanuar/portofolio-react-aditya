@@ -1,3 +1,4 @@
+<img width="761" height="251" alt="image" src="https://github.com/user-attachments/assets/1c3fbc4b-63f2-43a4-91f3-a0b4b7e90c3b" />
 # Personal Website – Muhammad Aditya Januar
 
 ## 1. Deskripsi Project
