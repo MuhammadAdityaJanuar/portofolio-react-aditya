@@ -127,15 +127,26 @@ Website akan berjalan melalui server lokal Vite.
 
 ## 7. Dokumentasi Website
 
-Dokumentasi berupa screenshot tampilan website yang meliputi:
+### 1. Halaman Home
+![Home](docs/screenshots/Home.png)
 
-1. Tampilan halaman Home.
-2. Tampilan halaman About Me.
-3. Tampilan halaman My Projects.
-4. Tampilan halaman My Skills.
-5. Tampilan halaman Education.
-6. Tampilan halaman Contact.
-7. Tampilan Dark Mode.
+### 2. Halaman About Me
+![About Me](docs/screenshots/Aboutme.png)
+
+### 3. Halaman My Projects
+![My Projects](docs/screenshots/MyProject.png)
+
+### 4. Halaman My Skills
+![My Skills](docs/screenshots/MySkills.png)
+
+### 5. Halaman Education
+![Education](docs/screenshots/Education.png)
+
+### 6. Halaman Contact
+![Contact](docs/screenshots/Contact.png)
+
+### 7. Tampilan Dark Mode
+![Dark Mode](docs/screenshots/DarkMode.png)
 
 Screenshot dapat disimpan di dalam folder `docs/screenshots/` dan ditampilkan pada bagian ini.
 
