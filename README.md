@@ -129,26 +129,25 @@ Website akan berjalan melalui server lokal Vite.
 ## 7. Dokumentasi Website
 
 ### 1. Halaman Home
-![Home](portofolio-react/docs/screenshots/Home.png)
+![Home](docs/screenshots/Home.png)
 
 ### 2. Halaman About Me
-![About Me](portofolio-react/docs/screenshots/Aboutme.png)
+![About Me](docs/screenshots/Aboutme.png)
 
 ### 3. Halaman My Projects
-![My Projects](portofolio-react/docs/screenshots/MyProject.png)
+![My Projects](docs/screenshots/MyProject.png)
 
 ### 4. Halaman My Skills
-![My Skills](portofolio-react/docs/screenshots/MySkills.png)
+![My Skills](docs/screenshots/MySkills.png)
 
 ### 5. Halaman Education
-![Education](portofolio-react/docs/screenshots/Education.png)
+![Education](docs/screenshots/Education.png)
 
 ### 6. Halaman Contact
-![Contact](portofolio-react/docs/screenshots/Contact.png)
+![Contact](docs/screenshots/Contact.png)
 
 ### 7. Tampilan Dark Mode
-![Dark Mode](portofolio-react/docs/screenshots/DarkMode.png)
-
+![Dark Mode](docs/screenshots/DarkMode.png)
 
 ## 8. Tujuan Pembuatan
 
