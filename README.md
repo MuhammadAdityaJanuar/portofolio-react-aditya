@@ -1,4 +1,4 @@
-<img width="761" height="251" alt="image" src="https://github.com/user-attachments/assets/1c3fbc4b-63f2-43a4-91f3-a0b4b7e90c3b" />
+
 # Personal Website – Muhammad Aditya Januar
 
 ## 1. Deskripsi Project
@@ -129,26 +129,26 @@ Website akan berjalan melalui server lokal Vite.
 ## 7. Dokumentasi Website
 
 ### 1. Halaman Home
-![Home](docs/screenshots/Home.png)
+![Home](portofolio-react/docs/screenshots/Home.png)
 
 ### 2. Halaman About Me
-![About Me](docs/screenshots/Aboutme.png)
+![About Me](portofolio-react/docs/screenshots/Aboutme.png)
 
 ### 3. Halaman My Projects
-![My Projects](docs/screenshots/MyProject.png)
+![My Projects](portofolio-react/docs/screenshots/MyProject.png)
 
 ### 4. Halaman My Skills
-![My Skills](docs/screenshots/MySkills.png)
+![My Skills](portofolio-react/docs/screenshots/MySkills.png)
 
 ### 5. Halaman Education
-![Education](docs/screenshots/Education.png)
+![Education](portofolio-react/docs/screenshots/Education.png)
 
 ### 6. Halaman Contact
-![Contact](docs/screenshots/Contact.png)
+![Contact](portofolio-react/docs/screenshots/Contact.png)
 
 ### 7. Tampilan Dark Mode
-![Dark Mode](docs/screenshots/DarkMode.png)
-Screenshot dapat disimpan di dalam folder `docs/screenshots/` dan ditampilkan pada bagian ini.
+![Dark Mode](portofolio-react/docs/screenshots/DarkMode.png)
+
 
 ## 8. Tujuan Pembuatan
 
