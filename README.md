@@ -147,7 +147,6 @@ Website akan berjalan melalui server lokal Vite.
 
 ### 7. Tampilan Dark Mode
 ![Dark Mode](docs/screenshots/DarkMode.png)
-
 Screenshot dapat disimpan di dalam folder `docs/screenshots/` dan ditampilkan pada bagian ini.
 
 ## 8. Tujuan Pembuatan
