@@ -22,6 +22,21 @@ const projects = [
     title: "UI/UX Design",
     icon: "fa-pen-ruler",
     text: "Perancangan antarmuka yang sederhana, modern, dan mudah digunakan."
+  },
+  {
+    title: "Mechanical Rotating",
+    icon: "fa-gears",
+    text: "Pemahaman pekerjaan mechanical rotating, perawatan, pemeriksaan, dan pemeliharaan peralatan berputar di lingkungan industri."
+  },
+  {
+    title: "Mechanical Static",
+    icon: "fa-industry",
+    text: "Pemahaman pekerjaan mechanical static, pemeriksaan dan pemeliharaan peralatan statis seperti pressure vessel, heat exchanger, dan tangki."
+  },
+  {
+    title: "Pipe Fitter",
+    icon: "fa-screwdriver-wrench",
+    text: "Pemahaman pekerjaan fabrikasi, pemasangan, penyambungan, dan instalasi sistem perpipaan di lingkungan industri."
   }
 ];
 
@@ -400,7 +415,7 @@ function App() {
             <div className="education-top">
               <div className="education-left">
                 <img
-                  src="/aditya.jpg.png"
+                  src="/Ditz.png.jpeg"
                   className="education-photo"
                   alt="Muhammad Aditya Januar"
                 />
@@ -447,7 +462,7 @@ function App() {
                 </h2>
 
                 <img
-                  src="/aditya.jpg.png"
+                  src="/Diitz.png.jpeg"
                   className="education-main-photo"
                   alt="Muhammad Aditya Januar"
                 />

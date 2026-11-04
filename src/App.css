@@ -1823,3 +1823,19 @@ body.dark-mode .theme-toggle:hover {
         font-size: 10px;
     }
 }
+
+/* POSISI DARK MODE DI UJUNG KIRI NAVBAR */
+.navbar .navbar-actions {
+    order: -1;
+    margin-right: 12px;
+    margin-left: 0;
+    flex-shrink: 0;
+}
+
+.navbar .logo {
+    order: 0;
+}
+
+.navbar .nav-menu {
+    order: 1;
+}
